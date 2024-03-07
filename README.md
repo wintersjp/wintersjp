@@ -31,4 +31,3 @@ Since I was 13 years old and discovered modding for TES III: Morrowind, I develo
 While previously you might have found me modding older RPGs or shooters, these days you will mostly find me making mods for Assetto Corsa. This GitHub profile is both a way to manage my projects but also to share knowledge and resources as I embark on this learning journey.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mutinysim&theme=tokyonight-duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mutinysim&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
