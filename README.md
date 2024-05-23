@@ -24,7 +24,7 @@
 </div>
 
 ---
-Hey there ✌️ I'm Winters and it seems you have stumbled upon my GitHub profile. I'm a hobbyist game dev, modder and content creator who runs a gaming community called MUTINY that focuses on sim racing, rally, touge, and drifting.
+Hey there ✌️ I'm Winters and it seems you have stumbled upon my GitHub profile. I'm a hobbyist game dev, modder and content creator who also runs a gaming community that focuses on sim racing, rally, touge, and drifting.
 </br></br>
 Since I was 13 years old and discovered modding for TES III: Morrowind, I developed a passion for modding and game development. Over the years I have been involved in various modding and development communities for various games, engines and tools.
 </br></br>
