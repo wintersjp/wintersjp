@@ -27,4 +27,4 @@ Since I was 13 years old and discovered modding for TES III: Morrowind and RPG M
 </br></br>
 I enjoy working on projects as a hobby and learning exercise to improve my programming skills or just general experience. These range from small game projects to mods for games like Assetto Corsa.
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mutinysim&theme=tokyonight-duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=wintersjp&theme=tokyonight-duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
